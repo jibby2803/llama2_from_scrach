@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+llama-2-7b/
+*.model
+*.chk
+USE_POLICY.md
+LICENSE
